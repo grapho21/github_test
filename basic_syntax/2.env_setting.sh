@@ -47,3 +47,6 @@ git config user.email
 git config --list
 #리스트에서 빠져나가는 방법 (q)키 입력
 
+# gitignore파일관리
+# 이미 트랙킹된 파일을 추가 할때 캐쉬를 삭제 해줘야한다.
+git rm -r --cached .
