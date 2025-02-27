@@ -49,4 +49,5 @@ git config --list
 
 # gitignore파일관리
 # 이미 트랙킹된 파일을 추가 할때 캐쉬를 삭제 해줘야한다.
+# 중요한(ID/Pass)파일 같은경우 Commit한 이후 ignore에 추가해줘도 이미 이력에 남기때문에 패스워드를 바꿔야한다.
 git rm -r --cached .
