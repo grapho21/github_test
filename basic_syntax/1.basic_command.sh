@@ -35,3 +35,6 @@ git log --graph
 
 # main 브랜치 뿐만 아니라 전체 commit 이력 조회
 git log --all
+
+# 충돌시 내 소스를 강제로 적용방법(팀 작업시 사용하면 안됨)
+git push origin main --force
