@@ -38,3 +38,10 @@ git log --all
 
 # 충돌시 내 소스를 강제로 적용방법(팀 작업시 사용하면 안됨)
 git push origin main --force
+
+
+# 특정 commit ID오의 전환 (소스코드를 과거의 특정 버전으로 되돌릴때)
+git checkout 커밋 ID
+
+# 다시 현재의 브랜치의 commit 되돌릴때
+git checkout 현재의브랜치명(main)
