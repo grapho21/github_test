@@ -56,3 +56,10 @@ git resert --soft head~1
 
 # push 이후의 취쇠 -> commit메시지 작성 vi 화면으로 이동 -> :wq (에디터모드 저장 명령)
 git revert 기존의 커밋ID
+
+
+# 작업중인 상황에서 임시 저장
+git stash
+
+# 저장한 최신의 작업 목록을 꺼내기
+git stash pop
