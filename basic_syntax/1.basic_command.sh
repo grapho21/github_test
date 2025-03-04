@@ -45,3 +45,14 @@ git checkout 커밋 ID
 
 # 다시 현재의 브랜치의 commit 되돌릴때
 git checkout 현재의브랜치명(main)
+
+
+# git 작업 취소
+# commit 이후의 취소
+git reset head~1
+git reset head^
+# staging area 로 까지만 취쇠
+git resert --soft head~1
+
+# push 이후의 취쇠 -> commit메시지 작성 vi 화면으로 이동 -> :wq (에디터모드 저장 명령)
+git revert 기존의 커밋ID
