@@ -17,8 +17,5 @@ hello world java
 hello world python3
 hello world java
 hello world java3
-hello world c++
-hello world sss
-hello world1
-hello world2
 
+ 
