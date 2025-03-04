@@ -60,6 +60,13 @@ git revert 기존의 커밋ID
 
 # 작업중인 상황에서 임시 저장
 git stash
-
 # 저장한 최신의 작업 목록을 꺼내기
 git stash pop
+# 임시저장한 목록은 그대로 놔둔채 특정 index항목적용
+git stash apply 인덱스번호
+# 임시저장한 작업 내용 조회
+git stash show -p 인덱스번호
+# 임시저장한 작업목록조회
+git stash list
+# 저장목록 모두 삭제
+git stash clear
