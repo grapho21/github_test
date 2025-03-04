@@ -11,7 +11,7 @@ hello world spring2
 hello world spring3
 hello world spring4
 hello world python3
-hello world javascript
+hello world java
 hello world java3
 hello world c++
 
