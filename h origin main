@@ -1,0 +1,172 @@
+[33mcommit 96f50252b74bbde1f1a56c52759714fac7a88ea3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Tue Mar 4 10:12:47 2025 +0900
+
+    new commit
+
+[33mcommit 1063aa6fa1cf621cd00b170a3450cf3fc0467808[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Tue Mar 4 10:09:13 2025 +0900
+
+    fix
+
+[33mcommit 86719f3625a2e5177e881d87ec29814fc053e280[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Fri Feb 28 13:09:32 2025 +0900
+
+    Revert "수정사항 발생"
+    
+    This reverts commit 250ff798276176cdae2d36038d3feb24cb0a9e33.
+
+[33mcommit 250ff798276176cdae2d36038d3feb24cb0a9e33[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Fri Feb 28 13:06:03 2025 +0900
+
+    수정사항 발생
+
+[33mcommit 395eb0a7c5fcb1d832f1163cd362ba5d2173ba9e[m
+Author: grapho21 <68946109+grapho21@users.noreply.github.com>
+Date:   Fri Feb 28 10:52:02 2025 +0900
+
+    origin main 수정
+
+[33mcommit 7a1076d9a9b6e378045d6a933bc8b680db6db1f2[m
+Author: grapho21 <68946109+grapho21@users.noreply.github.com>
+Date:   Fri Feb 28 10:36:13 2025 +0900
+
+    spring 내용추가
+
+[33mcommit 2230963f50e2630d434db2ba0b2d08d71af9d35b[m
+Author: grapho21 <68946109+grapho21@users.noreply.github.com>
+Date:   Fri Feb 28 10:28:17 2025 +0900
+
+    javascript내용 추가
+
+[33mcommit ea2e173974e7e8b5eda4e272b235beda881026b1[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Fri Feb 28 10:26:55 2025 +0900
+
+    fix
+
+[33mcommit ade66f1bd10857bf161098a3067d8337fd1490af[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Fri Feb 28 10:19:02 2025 +0900
+
+    c++ 내용추가
+
+[33mcommit 8a5b099556e7b0980cd2d371789b6adb17941f87[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Fri Feb 28 10:16:48 2025 +0900
+
+    python
+
+[33mcommit b7b15bda1824139e07af12a8329afecf08958322[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Fri Feb 28 10:15:50 2025 +0900
+
+    fix
+
+[33mcommit 3e8fa30feacac927096818a7af703a6b7fbafde4[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Fri Feb 28 10:14:50 2025 +0900
+
+    fix
+
+[33mcommit 202bbf701b61db151450434e035e4bd415c721f2[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Fri Feb 28 09:49:43 2025 +0900
+
+    fix
+
+[33mcommit 9ef9826017b17e0853cb65eea4e248f6ea154e60[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Fri Feb 28 09:42:27 2025 +0900
+
+    add와 commit 동시에
+
+[33mcommit e9455b8c7256e4e1378e9422f7f98c7d6e0733bb[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Thu Feb 27 11:30:18 2025 +0900
+
+    title2
+    title2 내용은 ...이빈다.
+
+[33mcommit 0ebd731a233a93b81f74e3f230d181e481171dfe[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Thu Feb 27 11:29:15 2025 +0900
+
+    title1
+    
+    title1의 수정사항..
+
+[33mcommit c00680453ac18657eb0a760f6c5403cd26e70653[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Thu Feb 27 11:23:34 2025 +0900
+
+    fix
+
+[33mcommit 9aadc9d2e33c80ebfd0dc1cbac2606bbfb416c63[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Thu Feb 27 11:10:04 2025 +0900
+
+    fix
+
+[33mcommit b2553dc374f3f1f9f0aa0ce4468d9d32efb229ab[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Thu Feb 27 10:56:48 2025 +0900
+
+    fix
+
+[33mcommit 95d96507b7514ff59fb92e4a858154808177ede4[m
+Author: abc <abc@naver.com>
+Date:   Thu Feb 27 08:49:28 2025 +0900
+
+    fix
+
+[33mcommit 828b7332542de9bf11a4c98b8e7335a8d6474beb[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Wed Feb 26 15:30:39 2025 +0900
+
+    folder move
+
+[33mcommit 388da371dc18c393cbf6c81d188a858a1a2aeb0f[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Wed Feb 26 14:49:56 2025 +0900
+
+    git url 셋팅
+
+[33mcommit 7614fcc8e059539ceace40c1e8603ca476153040[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Wed Feb 26 13:06:06 2025 +0900
+
+    fix
+
+[33mcommit f2e0ba19a2ab75e8b8d2dfc0ac963343fc08ef61[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Fri Feb 21 16:04:36 2025 +0900
+
+    fix
+
+[33mcommit 1c9c48f32c564ae70f98ea6269e31b6c2dc051e6[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Fri Feb 21 15:57:39 2025 +0900
+
+    version4
+
+[33mcommit f932868c9ece6dba3b5b75875ab02466ec13392e[m
+Author: grapho21 <grapho21@hotmail.com>
+Date:   Fri Feb 21 15:47:54 2025 +0900
+
+    version3
+
+[33mcommit 0ebf3965ebff23475525f90457d9066df94a7e87[m
+Author: grapho21 <68946109+grapho21@users.noreply.github.com>
+Date:   Fri Feb 21 14:25:54 2025 +0900
+
+    version2
+
+[33mcommit 7bff8ef8c59d0c607cb2529b03f6baf5515e8f16[m
+Author: grapho <grapho@irisinfotech.co.kr>
+Date:   Fri Feb 21 14:19:15 2025 +0900
+
+    version1
