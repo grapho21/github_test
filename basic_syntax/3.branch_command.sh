@@ -15,7 +15,7 @@ git branch
 git branch -D 브랜치
 
 # 모든 브랜치 이력 사항까지 clone
-git clone --mirror 원력레포주소
+git clone --mirror 원격레포주소
 
 # 새로운 repo에 기존 repo 모든 브랜치 포함하여 push할때
 git remote set-url origin 새원격레포주소
